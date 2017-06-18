@@ -1,0 +1,10 @@
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\DemoEF.Backend.dll.config
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\DemoEF.Backend.dll
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\DemoEF.Backend.pdb
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\EntityFramework.dll
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\EntityFramework.SqlServer.dll
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\EntityFramework.xml
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\bin\Debug\EntityFramework.SqlServer.xml
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\obj\Debug\DemoEF.Backend.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\obj\Debug\DemoEF.Backend.dll
+m:\els meus documents\visual studio 2015\Projects\DemoEF\DemoEF.Backend\obj\Debug\DemoEF.Backend.pdb

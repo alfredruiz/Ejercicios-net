@@ -1,0 +1,6 @@
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.dll.config
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.dll
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.dll
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.pdb

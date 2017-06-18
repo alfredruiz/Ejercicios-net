@@ -1,0 +1,9 @@
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.Properties.Resources.resources
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.csproj.GenerateResource.Cache
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\bin\Debug\WcfFacturacionClienteWindows.exe.config
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\bin\Debug\WcfFacturacionClienteWindows.exe
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\bin\Debug\WcfFacturacionClienteWindows.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.exe
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.frmConsultaProductos.resources
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacionClienteWindows\WcfFacturacionClienteWindows\obj\Debug\WcfFacturacionClienteWindows.csprojResolveAssemblyReference.cache

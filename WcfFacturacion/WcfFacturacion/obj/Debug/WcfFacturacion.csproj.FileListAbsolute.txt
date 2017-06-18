@@ -1,0 +1,8 @@
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\bin\Debug\WcfFacturacion.dll.config
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\bin\Debug\WcfFacturacion.dll
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\bin\Debug\WcfFacturacion.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\bin\Debug\CADFacturacion.dll
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\bin\Debug\CADFacturacion.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.dll
+m:\els meus documents\visual studio 2015\Projects\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.pdb

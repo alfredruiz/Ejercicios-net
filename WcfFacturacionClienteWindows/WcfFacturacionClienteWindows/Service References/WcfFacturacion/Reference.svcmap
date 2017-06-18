@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fcff33b7-1ee5-493a-a818-95d83256088d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="090cb142-3449-477e-a8f9-59cb74e9530d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="4e52dc8b-37d4-465e-b386-f2cf3eccb1e0" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="8bb75c17-1ef0-498e-bceb-0858c36a94ab" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="ServicioFacturacion.wsdl" MetadataType="Wsdl" ID="dcd741b7-3530-4924-8935-dc12213564ce" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="0ac973c4-e2ea-456c-bcb3-9526d942d449" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfFacturacion/Service1/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\bin\Debug\Cliente.exe.config
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\bin\Debug\Cliente.exe
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\bin\Debug\Cliente.pdb
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\obj\Debug\Cliente.exe
+m:\els meus documents\visual studio 2015\Projects\SolucionWCFHttp\Cliente\obj\Debug\Cliente.pdb

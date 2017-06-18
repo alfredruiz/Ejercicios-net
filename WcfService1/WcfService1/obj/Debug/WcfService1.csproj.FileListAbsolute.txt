@@ -1,0 +1,6 @@
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+m:\els meus documents\visual studio 2015\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

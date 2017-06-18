@@ -1,0 +1,6 @@
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\bin\Debug\EjemploWCFConfig.exe.config
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\bin\Debug\EjemploWCFConfig.exe
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\bin\Debug\EjemploWCFConfig.pdb
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\obj\Debug\EjemploWCFConfig.csprojResolveAssemblyReference.cache
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\obj\Debug\EjemploWCFConfig.exe
+m:\els meus documents\visual studio 2015\Projects\EjemploWCFConfig\EjemploWCFConfig\obj\Debug\EjemploWCFConfig.pdb
